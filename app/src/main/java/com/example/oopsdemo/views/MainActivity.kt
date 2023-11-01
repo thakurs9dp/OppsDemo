@@ -1,7 +1,8 @@
-package com.example.oopsdemo
+package com.example.oopsdemo.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.oopsdemo.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
